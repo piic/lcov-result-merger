@@ -38,7 +38,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "through2": "^2.0.3",
+    "through2": "^4.0.2",
     "vinyl": "^2.1.0",
     "vinyl-fs": "^3.0.2"
   },
